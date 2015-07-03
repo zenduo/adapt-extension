@@ -1,9 +1,9 @@
 {
   "name": "adapt-extension",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "homepage": "https://github.com/adaptlearning/adapt-extension",
   "authors": [
-    "Daryl Hedley <darylhedley@gmail.com>"
+    "AdaptLearning"
   ],
   "displayName" : "Extension",
   "extension" : "extension",
